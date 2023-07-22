@@ -1,0 +1,13 @@
+target
+/target
+/target/*
+target/*
+/.settings
+
+.replit
+.breakpoints
+.project
+.classpath
+.gitConf
+
+replit.nix
