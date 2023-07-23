@@ -4,12 +4,15 @@ target
 target/*
 /.settings
 
+<<<<<<< HEAD
 bin/
 /bin
 /bin/*
 
 
 
+=======
+>>>>>>> 97cf72d3c2e671a28d368eb70067a77c28622caf
 .replit
 .breakpoints
 .project
